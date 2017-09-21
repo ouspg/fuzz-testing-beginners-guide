@@ -56,8 +56,11 @@ Especially when your endgame is to use the same tooling with different targets, 
 If you are setting up a fuzzing system, but you are not one of the developers actually fixing the issues found, contact the people who are going to work with the results your system spews out. What kind of information do they want to have in a bug report from fuzz testing? Developers rarely appreciate if the first thing they see in the morning is an inbox full of new bug reports along these lines:
 
 >Title: Crash in program X
+
 >Description: Attachment makes program X crash.
+
 >Attachment: fuzz-test-case-1337 (22MB)
+
 
 By default, a bug report should contain at least all the information required to reproduce the issue. Things like, but not limited to: configuration, operating system used, version or build number of the target, CPU and memory information and, where applicable, compiler options and debug flags. 
 
