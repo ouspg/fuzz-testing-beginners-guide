@@ -89,4 +89,8 @@ Without code coverage feedback things get a little tricky. If you have implement
 - Risto Kumpulainen(F-Secure)
 - Alexey Kirichenko(F-Secure)
 
+# Translations
+
+- Vancir - zh
+
 This document was started in the context of DIMECC Cyber Trust Program.
